@@ -8,7 +8,7 @@ A Java based application that uses Java Mail API + Gmail SMTP Server to Send, Dr
 
 # Working Days: 
 
-2week [11-25th Jan]
+2week [11-25th Feb]
 
 # IDE & Database:
 
